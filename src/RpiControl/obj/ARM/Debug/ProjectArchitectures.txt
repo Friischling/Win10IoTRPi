@@ -1,0 +1,2 @@
+C:\Users\Jacob\Documents\Development\Win10IoT\src\RpiControl\RpiControl.csproj;arm
+C:\Users\Jacob\Documents\Development\Win10IoT\src\RpiControl\RpiControl.Tasks\RpiControl.Tasks.csproj;arm
