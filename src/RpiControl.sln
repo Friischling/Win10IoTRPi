@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpiControl", "RpiControl.csproj", "{65EAE792-AF1F-44F5-988E-BC6C5BC8E13F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpiControl", "RpiControl\RpiControl.csproj", "{65EAE792-AF1F-44F5-988E-BC6C5BC8E13F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpiControl.Tasks", "RpiControl.Tasks\RpiControl.Tasks.csproj", "{669B6396-C7D8-4D04-927B-2D0F1421523A}"
 EndProject
